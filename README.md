@@ -17,9 +17,9 @@ Projeto de um CRUD feito em ReactJS com API RESTful.
 ## Instalação
 
 ```
-$ git clone https://github.com/danilomeneghel/crud-reactjs-hooks.git
+$ git clone https://github.com/danilomeneghel/crud_reactjs_hooks.git
 
-$ cd crud-reactjs-hooks
+$ cd crud_reactjs_hooks
 $ npm install
 $ npm start
 ```
