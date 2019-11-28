@@ -22,8 +22,8 @@ $ git clone https://github.com/danilomeneghel/crud-reactjs-hooks.git
 $ cd crud-reactjs-hooks
 $ npm install
 $ npm start
-´´´
+```
 
-## License
+## Licença
 
-This project is open source and available under the [MIT License](LICENSE).
+Projeto licenciado sob <a href="LICENSE">The MIT License (MIT)</a>.
