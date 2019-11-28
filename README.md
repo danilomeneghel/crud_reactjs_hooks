@@ -1,12 +1,28 @@
-# React Hooks Tutorial
+# CRUD React
 
-In this tutorial, we'll make a simple CRUD app that can add, update, or delete users.
+Projeto de um CRUD feito em ReactJS com API RESTful.
 
-### [View the demo](https://taniarascia.github.io/react-hooks/) | [Read the tutorial](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+## Características
 
-## Author
+- CRUD
+- API RESTful
 
-- [Tania Rascia](https://www.taniarascia.com)
+## Requisitos
+- NPM >= 6.4.1
+
+## Tecnologias
+
+- ReactJS
+
+## Instalação
+
+```
+$ git clone https://github.com/danilomeneghel/crud-reactjs-hooks.git
+
+$ cd crud-reactjs-hooks
+$ npm install
+$ npm start
+´´´
 
 ## License
 
